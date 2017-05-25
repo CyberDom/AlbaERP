@@ -1,0 +1,12 @@
+.login_content h1 {
+  color:white;
+  text-shadow: none;
+}
+.login_content form div a{
+  text-shadow: none;
+  color:white;
+}
+.login_content >*{
+  text-shadow: none;
+  color:white;
+}
